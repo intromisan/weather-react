@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="clip-fog">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="fog" clip-path="url(#clip-fog)">
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="753" height="48" transform="translate(0 186)" fill="#e0c8a4"/>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="753" height="48" transform="translate(0 186)" fill="#e0c8a4"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="753" height="50" transform="translate(247 278)" fill="#e0c8a4"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="753" height="48" transform="translate(115 372)" fill="#e0c8a4"/>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="753" height="50" transform="translate(58 464)" fill="#e0c8a4"/>
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="550" height="48" transform="translate(155 558)" fill="#e0c8a4"/>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="377" height="48" transform="translate(247 651)" fill="#e0c8a4"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="157" height="48" transform="translate(422 826)" fill="#e0c8a4"/>
+  </g>
+</svg>

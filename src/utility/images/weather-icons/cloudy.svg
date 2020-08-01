@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="clip-cloudy">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="cloudy" clip-path="url(#clip-cloudy)">
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M499,251H0c0-.149,0-.3,0-.452v-.138a253.15,253.15,0,0,1,5.069-50.466,249.462,249.462,0,0,1,488.862,0A253.142,253.142,0,0,1,499,250.41c0,.136,0,.275,0,.413V251Z" transform="translate(0 375)" fill="#fff"/>
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M499,251H0c0-.149,0-.3,0-.452v-.138a253.15,253.15,0,0,1,5.069-50.466,249.462,249.462,0,0,1,488.862,0A253.142,253.142,0,0,1,499,250.41c0,.136,0,.275,0,.413V251Z" transform="translate(1000 625) rotate(180)" fill="#fff"/>
+    <path id="Subtraction_4" data-name="Subtraction 4" d="M499,251H0c0-.149,0-.3,0-.452v-.138a253.15,253.15,0,0,1,5.069-50.466,249.462,249.462,0,0,1,488.862,0A253.142,253.142,0,0,1,499,250.41c0,.136,0,.275,0,.413V251Z" transform="translate(1000 876) rotate(180)" fill="#fff"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M499,251H0c0-.149,0-.3,0-.452v-.138a253.15,253.15,0,0,1,5.069-50.466,249.462,249.462,0,0,1,488.862,0A253.142,253.142,0,0,1,499,250.41c0,.136,0,.275,0,.413V251Z" transform="translate(0 124)" fill="#fff"/>
+  </g>
+</svg>
