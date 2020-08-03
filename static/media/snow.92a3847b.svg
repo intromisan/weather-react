@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="clip-snow">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="snow" clip-path="url(#clip-snow)">
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M499,251H0c0-.149,0-.3,0-.452v-.138a253.147,253.147,0,0,1,5.069-50.466,249.124,249.124,0,0,1,420.854-126.6A250.189,250.189,0,0,1,499,250.41c0,.136,0,.275,0,.413V251Z" transform="translate(1000 751) rotate(180)" fill="#fff"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M499,251H0c0-.149,0-.3,0-.452v-.138a253.147,253.147,0,0,1,5.069-50.466,249.124,249.124,0,0,1,420.854-126.6A250.189,250.189,0,0,1,499,250.41c0,.136,0,.275,0,.413V251Z" transform="translate(0 249)" fill="#fff"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="16.5" cy="16.5" r="16.5" transform="translate(66 533)" fill="#fff"/>
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="16.5" cy="16.5" r="16.5" transform="translate(233 534)" fill="#fff"/>
+    <circle id="Ellipse_16" data-name="Ellipse 16" cx="16.5" cy="16.5" r="16.5" transform="translate(149 534)" fill="#fff"/>
+    <circle id="Ellipse_21" data-name="Ellipse 21" cx="16.5" cy="16.5" r="16.5" transform="translate(316 535)" fill="#fff"/>
+    <circle id="Ellipse_25" data-name="Ellipse 25" cx="16.5" cy="16.5" r="16.5" transform="translate(400 534)" fill="#fff"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="16.5" cy="16.5" r="16.5" transform="translate(66 626)" fill="#fff"/>
+    <circle id="Ellipse_20" data-name="Ellipse 20" cx="16.5" cy="16.5" r="16.5" transform="translate(233 627)" fill="#fff"/>
+    <circle id="Ellipse_17" data-name="Ellipse 17" cx="16.5" cy="16.5" r="16.5" transform="translate(149 627)" fill="#fff"/>
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="16.5" cy="16.5" r="16.5" transform="translate(316 628)" fill="#fff"/>
+    <circle id="Ellipse_26" data-name="Ellipse 26" cx="16.5" cy="16.5" r="16.5" transform="translate(400 627)" fill="#fff"/>
+    <circle id="Ellipse_15" data-name="Ellipse 15" cx="16.5" cy="16.5" r="16.5" transform="translate(66 719)" fill="#fff"/>
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="16.5" cy="16.5" r="16.5" transform="translate(233 720)" fill="#fff"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="16.5" cy="16.5" r="16.5" transform="translate(149 720)" fill="#fff"/>
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="16.5" cy="16.5" r="16.5" transform="translate(316 721)" fill="#fff"/>
+    <circle id="Ellipse_27" data-name="Ellipse 27" cx="16.5" cy="16.5" r="16.5" transform="translate(400 720)" fill="#fff"/>
+  </g>
+</svg>
