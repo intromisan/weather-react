@@ -24,67 +24,95 @@ import thunderRainNight from '../../utility/images/weather-icons/thunder-rain-ni
 export const Image = props => {
   let picture = ''
 
-  switch (props.mainWeather) {
-    case 'Clouds':
-      switch (props.desc) {
-        case 'few clouds':
-          picture = cloudySunny
-          break;
-        default:
-          picture = cloudy
-          break;
-      }
-      break;
-    case 'Rain':
-      switch (props.desc) {
-        case 'light rain':
-          picture = lightRain
-          break;
-        case 'heavy intensity rain':
-          picture = heavyRain
-          break;
-        case 'shower rain':
-          picture = showerRain
-          break;
-        default:
-          picture = rain
-          break;
-      }
-      break;
-    case 'Snow':
-      switch (props.desc) {
-        case 'Rain and snow':
-          picture = snowRain
-          break;
-        default:
-          picture = snow
-          break;
-      }
-      break;
-    case 'Thunderstorm':
-      switch (props.desc) {
-        case 'Thunderstorm':
-          picture = thunder
-          break;
-        default:
-          picture = thunderRain
-          break;
-      }
-      break;
-    case 'Atmosphere':
-      switch (props.desc) {
-        case 'fog':
-          picture = fog
-          break;
-        default:
-          picture = mist
-          break;
-      }
-      break;
-    default:
-      picture = clear
-      break;
+  if (props.isNight) {
+    switch (props.mainWeather) {
+      case 'Rain':
+        picture = rainNight;
+        break;
+      case 'Snow':
+        picture = snowNight;
+        break;
+      case 'Thunderstorm':
+        switch (props.desc) {
+          case 'Thunderstorm':
+            picture = thunderNight
+            break;
+          default:
+            picture = thunderRainNight;
+            break;
+        }
+        break
+      case 'Clouds':
+        picture = cloudyNight;
+        break;
+      default:
+        picture = clearNight;
+        break;
+    }
+  } else {
+    switch (props.mainWeather) {
+      case 'Clouds':
+        switch (props.desc) {
+          case 'few clouds':
+            picture = cloudySunny
+            break;
+          default:
+            picture = cloudy
+            break;
+        }
+        break;
+      case 'Rain':
+        switch (props.desc) {
+          case 'light rain':
+            picture = lightRain
+            break;
+          case 'heavy intensity rain':
+            picture = heavyRain
+            break;
+          case 'shower rain':
+            picture = showerRain
+            break;
+          default:
+            picture = rain
+            break;
+        }
+        break;
+      case 'Snow':
+        switch (props.desc) {
+          case 'Rain and snow':
+            picture = snowRain
+            break;
+          default:
+            picture = snow
+            break;
+        }
+        break;
+      case 'Thunderstorm':
+        switch (props.desc) {
+          case 'Thunderstorm':
+            picture = thunder
+            break;
+          default:
+            picture = thunderRain
+            break;
+        }
+        break;
+      case 'Atmosphere':
+        switch (props.desc) {
+          case 'fog':
+            picture = fog
+            break;
+          default:
+            picture = mist
+            break;
+        }
+        break;
+      default:
+        picture = clear
+        break;
+    }    
   }
+
 
   return (
     <div className='image-box'>

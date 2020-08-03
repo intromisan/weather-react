@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Search = props => {
   return (
-    <div className='search-box'>
+    <div className={props.isNight ? 'search-box-night' : 'search-box' }>
       <input
         type='text'
         placeholder='Search...'
