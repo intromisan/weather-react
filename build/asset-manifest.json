@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/intromisan/weather-react/static/css/main.aeb559e3.chunk.css",
+    "main.js": "/intromisan/weather-react/static/js/main.b92ed76f.chunk.js",
+    "main.js.map": "/intromisan/weather-react/static/js/main.b92ed76f.chunk.js.map",
+    "runtime-main.js": "/intromisan/weather-react/static/js/runtime-main.6e3d2645.js",
+    "runtime-main.js.map": "/intromisan/weather-react/static/js/runtime-main.6e3d2645.js.map",
+    "static/js/2.f7599300.chunk.js": "/intromisan/weather-react/static/js/2.f7599300.chunk.js",
+    "static/js/2.f7599300.chunk.js.map": "/intromisan/weather-react/static/js/2.f7599300.chunk.js.map",
+    "index.html": "/intromisan/weather-react/index.html",
+    "precache-manifest.810d158826b5a691e6589a04703a1686.js": "/intromisan/weather-react/precache-manifest.810d158826b5a691e6589a04703a1686.js",
+    "service-worker.js": "/intromisan/weather-react/service-worker.js",
+    "static/css/main.aeb559e3.chunk.css.map": "/intromisan/weather-react/static/css/main.aeb559e3.chunk.css.map",
+    "static/js/2.f7599300.chunk.js.LICENSE.txt": "/intromisan/weather-react/static/js/2.f7599300.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/intromisan/weather-react/static/media/arrow.0de63046.svg",
+    "static/media/clear-night.svg": "/intromisan/weather-react/static/media/clear-night.66d1a53b.svg",
+    "static/media/clear.svg": "/intromisan/weather-react/static/media/clear.670b7fc8.svg",
+    "static/media/cloudy-night.svg": "/intromisan/weather-react/static/media/cloudy-night.d985f427.svg",
+    "static/media/cloudy-sunny.svg": "/intromisan/weather-react/static/media/cloudy-sunny.5d260ffb.svg",
+    "static/media/cloudy.svg": "/intromisan/weather-react/static/media/cloudy.5111b76e.svg",
+    "static/media/fog.svg": "/intromisan/weather-react/static/media/fog.a2b43e28.svg",
+    "static/media/heavy-rain.svg": "/intromisan/weather-react/static/media/heavy-rain.32a0b7a0.svg",
+    "static/media/light-rain.svg": "/intromisan/weather-react/static/media/light-rain.6b2ac80b.svg",
+    "static/media/mist.svg": "/intromisan/weather-react/static/media/mist.684ff8c2.svg",
+    "static/media/rain-night.svg": "/intromisan/weather-react/static/media/rain-night.3588ccbb.svg",
+    "static/media/rain.svg": "/intromisan/weather-react/static/media/rain.06b4c02c.svg",
+    "static/media/shower-rain.svg": "/intromisan/weather-react/static/media/shower-rain.bd58a153.svg",
+    "static/media/snow-night.svg": "/intromisan/weather-react/static/media/snow-night.a65faed4.svg",
+    "static/media/snow-rain.svg": "/intromisan/weather-react/static/media/snow-rain.6461a8b7.svg",
+    "static/media/snow.svg": "/intromisan/weather-react/static/media/snow.92a3847b.svg",
+    "static/media/thunder-night.svg": "/intromisan/weather-react/static/media/thunder-night.5bde561f.svg",
+    "static/media/thunder-rain-night.svg": "/intromisan/weather-react/static/media/thunder-rain-night.f5ad2705.svg",
+    "static/media/thunder-rain.svg": "/intromisan/weather-react/static/media/thunder-rain.6eba0a2f.svg",
+    "static/media/thunder.svg": "/intromisan/weather-react/static/media/thunder.22050fae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e3d2645.js",
+    "static/js/2.f7599300.chunk.js",
+    "static/css/main.aeb559e3.chunk.css",
+    "static/js/main.b92ed76f.chunk.js"
+  ]
+}

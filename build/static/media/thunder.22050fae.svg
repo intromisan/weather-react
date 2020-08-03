@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="clip-thunder">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="thunder" clip-path="url(#clip-thunder)">
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M499,251H0c0-.149,0-.3,0-.452v-.138a253.147,253.147,0,0,1,5.069-50.466,249.124,249.124,0,0,1,420.854-126.6A250.189,250.189,0,0,1,499,250.41c0,.136,0,.275,0,.413V251Z" transform="translate(1000 751) rotate(180)" fill="#fff"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M499,251H0c0-.149,0-.3,0-.452v-.138a253.147,253.147,0,0,1,5.069-50.466,249.124,249.124,0,0,1,420.854-126.6A250.189,250.189,0,0,1,499,250.41c0,.136,0,.275,0,.413V251Z" transform="translate(0 249)" fill="#fff"/>
+    <path id="Union_3" data-name="Union 3" d="M-630.981-2195.606H-690L-630.672-2305v108.981h59.018l-59.328,109.393Z" transform="translate(880 2838)" fill="#fff"/>
+  </g>
+</svg>
